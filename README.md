@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohit Rana
+- 👀 I’m interested in Software Development and New Technologies
+- 🌱 I’m currently learning Web Development
+- 📫 mohitr8998@gmail.com
+- ⚡ Student by day, Coder by night
