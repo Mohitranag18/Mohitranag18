@@ -22,6 +22,14 @@ I’m currently pursuing my BSc. in IT from Graphic Era Hill University, and I�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohitranag18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
+
+## 🔰 Badges
 [![An image of @mohitranag18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitranag18)](https://holopin.io/@mohitranag18)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/mohitranag18/achievements?format=svg&limit=3" width="450" />
+</p>
+
+---
