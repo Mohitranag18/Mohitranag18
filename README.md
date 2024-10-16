@@ -9,10 +9,36 @@ I’m currently pursuing my BSc. in IT from Graphic Era Hill University, and I�
  [![](https://visitcount.itsvg.in/api?id=mohitranag18&icon=0&color=8)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
-**Languages:** C, C++, Java, Python, HTML, CSS, JavaScript, React JS, SQL <br><br>
-**Frameworks & Tools:** Tailwind CSS, Git, GitHub, MySQL, Oracle <br><br>
-**Designing:** Adobe Photoshop, Figma, UI/UX Design <br><br>
-**Non-Technical:** Problem-solving, Team collaboration, Open-source contributions <br>
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+</tr>
+
+</table>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
