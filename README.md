@@ -1,4 +1,5 @@
 # 👋 Hi there, I’m Mohit Rana!<br><br>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 I’m currently pursuing my BSc. in IT from Graphic Era Hill University, and I’m passionate about Software Development and exploring New Technologies.<br><br>    👀 I’m always on the lookout for new tools, frameworks, and innovations that can enhance my development skills.<br>    🌱 Right now, I’m focused on mastering Web Development and building exciting projects.<br>    🤝 I’m contributing to GirlScript Summer of Code 2024 (Extended Edition) and participating in Hacktoberfest 2024, making meaningful contributions to open-source projects.<br>    📫 Feel free to reach out to me at: mohitr8998@gmail.com<br><br>Let’s connect and collaborate on projects!
 
 
