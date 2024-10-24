@@ -46,11 +46,6 @@ I’m currently pursuing my BSc. in IT from Graphic Era Hill University, and I�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitranag18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohitranag18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
 ## 🔰 Badges
 [![An image of @mohitranag18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitranag18)](https://holopin.io/@mohitranag18)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
