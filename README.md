@@ -49,12 +49,11 @@ I’m currently pursuing my BSc. in IT from Graphic Era Hill University, and I�
 ## 🔰 Badges
 [![An image of @mohitranag18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitranag18)](https://holopin.io/@mohitranag18)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<div style='display: flex; align-items:center; gap: "10px";' align='center'>
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/mohitranag18/achievements?format=svg&limit=3" width="450" />
 </p>
-
-## GSSOC(24)
+</div>
 
 <div style='display: flex; align-items:center; gap: "10px";' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
