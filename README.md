@@ -17,16 +17,19 @@ Iâ€™m currently pursuing my BSc. in IT from Graphic Era Hill University, and Iâ€
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
 </tr>
 <tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+    <td><strong>Backend Development</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python Logo">
+    </td>
 </tr>
+
 
 <tr>
 	<td><strong>Frameworks</strong></td>
