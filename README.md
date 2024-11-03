@@ -26,7 +26,7 @@ Iâ€™m currently pursuing my BSc. in IT from Graphic Era Hill University, and Iâ€
 <tr>
     <td><strong>Backend Development</strong></td>
     <td>
-        <img height="40" src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python Logo">
+        <img height="40" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Python Logo">
     </td>
 </tr>
 
