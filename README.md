@@ -25,9 +25,10 @@ Iâ€™m currently pursuing my BSc. in IT from Graphic Era Hill University, and Iâ€
 </tr>
 <tr>
     <td><strong>Backend Development</strong></td>
-    <td>
-        <img height="40" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Python Logo">
-    </td>
+	<td>
+	    <img height="40" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django Logo">
+            <img height="40" src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework Logo">
+	</td>
 </tr>
 
 
