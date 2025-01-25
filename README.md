@@ -25,50 +25,64 @@ Let's **connect and collaborate** on projects!
 
 ---
 
-## 💻 Tech Stack
 
-| Category | Technologies |
-| --- | --- |
-| **Programming Languages** | ![C++](https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark) |
-| **Database Technologies** | ![MySQL](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark) |
-| **Frontend Development** | ![HTML](https://skillicons.dev/icons?i=html,css,js,react) |
-| **Backend Development** | ![Django](https://skillicons.dev/icons?i=django&theme=dark) <img height="40" src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework Logo"> |
-| **Frameworks** | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark) |
-| **Developer Tools** | ![Git](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark) |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 🏆 Achievements
-
-[![Holopin Badges](https://holopin.me/mohitranag18)](https://holopin.io/@mohitranag18)
-
-<img src="https://api.vaunt.dev/v1/github/entities/mohitranag18/achievements?format=svg&limit=3" width="450" align="center" />
-
-<div align='center'>
-    <a href="https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=mohitranag18">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105" height="105" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100" height="100" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100" height="100" />
-    </a>
-</div>
+# 💻 Tech Stack:
+<table>
+<tr>
+<td><strong>Programming</strong></td>
+<td><img height=20 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+</tr>
+<tr>
+<td><strong>Databases</strong></td>
+<td><img height=20 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td><img height=20 src = "https://skillicons.dev/icons?i=html,css,js,react,ts" ></td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img height="20" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django Logo">
+<img height="20" src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework Logo">
+</td>
+</tr>
+<tr>
+<td><strong>Frameworks</strong></td>
+<td><img height=20 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td><img height=20 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+</tr>
+</table>
 
 ---
 
-⭐ **Thank you for visiting my profile! Let's connect and build something amazing together.**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&width=300) &nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&width=300)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 🔰 Badges
+<details>
+  <summary>Show Badges</summary>
+  <p align='center'>
+    <img src="https://holopin.me/mohitranag18" width="400" />
+  </p>
+  <div align='center'>
+    <img src="https://api.vaunt.dev/v1/github/entities/mohitranag18/achievements?format=svg&limit=3" width="400" />
+  </div>
+  <div align='center'>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" height="80px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" height="80px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" height="80px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="85px" height="85px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="80px" height="80px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80px" height="80px" />
+  </div>
+</details>
