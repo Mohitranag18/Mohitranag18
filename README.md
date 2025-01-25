@@ -30,32 +30,33 @@ Let's **connect and collaborate** on projects!
 <table>
 <tr>
 <td><strong>Programming</strong></td>
-<td><img height=20 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+<td><img height=35 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
 </tr>
 <tr>
 <td><strong>Databases</strong></td>
-<td><img height=20 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+<td><img height=35 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 </tr>
 <tr>
 <td><strong>Frontend</strong></td>
-<td><img height=20 src = "https://skillicons.dev/icons?i=html,css,js,react,ts" ></td>
+<td><img height=35 src = "https://skillicons.dev/icons?i=html,css,js,react,ts" ></td>
 </tr>
 <tr>
 <td><strong>Backend</strong></td>
 <td>
-<img height="20" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django Logo">
-<img height="20" src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework Logo">
+<img height="35" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django Logo">
+<img height="35" src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework Logo">
 </td>
 </tr>
 <tr>
 <td><strong>Frameworks</strong></td>
-<td><img height=20 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+<td><img height=35 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
-<td><img height=20 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+<td><img height=35 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
 </tr>
 </table>
+
 
 ---
 
