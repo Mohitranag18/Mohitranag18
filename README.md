@@ -65,8 +65,9 @@ Let's **connect and collaborate** on projects!
 ---
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&width=200) &nbsp;&nbsp;
-![Leetcode Stats](https://leetcard.jacoblin.cool/mohitrana18?theme=dark&font=Karma)
+![](https://github-readme-stats.vercel.app/api?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&width=170)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mohitrana18?theme=dark&ext=contest&width=490)
+
 
 ---
 
