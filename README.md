@@ -4,10 +4,10 @@
 
 I am currently pursuing my **BSc. in IT** from **Graphic Era Hill University**, and I have a deep passion for **Software Development** and **exploring new technologies.**
 
-- 👀 I’m always on the lookout for new tools, frameworks, and innovations that can enhance my development skills.
-- 🌱 Currently, I am focused on mastering **Web Development** and building exciting projects.
-- 🤝 I contributed to **GirlScript Summer of Code 2024 (Extended Edition)** and participated in **Hacktoberfest 2024**, making meaningful contributions to open-source projects.
-- 📫 Feel free to reach out to me at **[mohitr8998@gmail.com](mailto:mohitr8998@gmail.com)**.
+- I’m always on the lookout for new tools, frameworks, and innovations that can enhance my development skills.
+- Currently, I am focused on mastering **Web Development** and building exciting projects.
+- I contributed to **GirlScript Summer of Code 2024 (Extended Edition)** and participated in **Hacktoberfest 2024**, making meaningful contributions to open-source projects.
+- Feel free to reach out to me at **[mohitr8998@gmail.com](mailto:mohitr8998@gmail.com)**.
 
 Let's **connect and collaborate** on projects!
 
