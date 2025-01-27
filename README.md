@@ -64,11 +64,11 @@ Let's **connect and collaborate** on projects!
 
 ---
 
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&width=250) &nbsp;&nbsp;&nbsp;
-![Leetcode Stats](https://leetcard.jacoblin.cool/mohitrana18?&theme=dark&) 
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&width=250" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcard.jacoblin.cool/mohitrana18?&theme=dark&" width="300" />
+</div>
 
 ---
 
