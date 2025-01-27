@@ -28,7 +28,7 @@ Let's **connect and collaborate** on projects!
 
 # 💻 Tech Stack:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" align="right" height="250" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" align="right" height="260" />
 <table>
   <tr>
     <td><strong>Languages</strong></td>
