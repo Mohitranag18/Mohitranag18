@@ -56,7 +56,7 @@ Let's **connect and collaborate** on projects!
   <tr>
     <td><strong>Others</strong></td>
     <td>
-      <img height=35 src="https://skillicons.dev/icons?i=postman,mongodb,ts&theme=dark" alt="Other (Postman API)">
+      <img height=35 src="https://skillicons.dev/icons?i=postman,ts&theme=dark" alt="Other (Postman API)">
     </td>
   </tr>
 </table>
