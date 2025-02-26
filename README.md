@@ -79,7 +79,7 @@ Let's **connect and collaborate** on projects!
     <img src="https://holopin.me/mohitranag18" width="400" />
   </p>
   <div align='center'>
-    <img src="https://api.vaunt.dev/v1/github/entities/mohitranag18/achievements?format=svg&limit=3" width="400" />
+    <img src="https://api.vaunt.dev/v1/github/entities/mohitranag18/achievements?format=svg&limit=5" width="400" />
   </div>
   <div align='center'>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
