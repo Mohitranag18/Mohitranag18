@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohit Rana!
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 I am currently pursuing my **BSc. in IT** from **Graphic Era Hill University**, and I have a deep passion for **Software Development** and **exploring new technologies.**
 
