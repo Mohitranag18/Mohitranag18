@@ -38,14 +38,14 @@ Let's **connect and collaborate** on projects!
 
 **Others:**  Linux, Data Structures and Algorithms, Operating Systems, OOP, Computer Networks, Database Management Systems (DBMS)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" />
-
 ---
 # 📊 Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&width=250" height="180" width="400" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/mohitrana18?&theme=dark&" height="180" width="400" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" />
 </div>
 
 ---
