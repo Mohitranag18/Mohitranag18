@@ -28,39 +28,17 @@ Let's **connect and collaborate** on projects!
 
 # 💻 Tech Stack:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" align="right" height="260" />
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td><img height=35 src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,js&theme=dark"></td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>
-      <img height="35" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django Logo">
-      <img height="35" src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework Logo">
-      <img height="35" src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React and Tailwind Logo">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Libraries</strong></td>
-    <td><img height=35 src="https://skillicons.dev/icons?i=redux&theme=dark"></td>
-  </tr>
-  <tr>
-    <td><strong>Developer Tools</strong></td>
-    <td>
-      <img height=35 src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark">
-      <img height=35 src="https://skillicons.dev/icons?i=vscode&theme=dark">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Others</strong></td>
-    <td>
-      <img height=35 src="https://skillicons.dev/icons?i=postman,ts&theme=dark" alt="Other (Postman API)">
-    </td>
-  </tr>
-</table>
+**Languages:**  Java, Python, C/C++, SQL, JavaScript, TypeScript, HTML/CSS  
 
+**Frameworks:**  Django, Django REST Framework, React, React Native, Express.js  
+
+**Libraries:**  Redux Toolkit, Tailwind CSS, Celery, Redis, WebSocket  
+
+**Developer Tools:**  Node.js, Git & GitHub, Android Studio, Postman API, VS Code, IntelliJ, Eclipse  
+
+**Others:**  Linux, Data Structures and Algorithms, Operating Systems, OOP, Computer Networks, Database Management Systems (DBMS)  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" height="260" />
 
 ---
 # 📊 Stats:
