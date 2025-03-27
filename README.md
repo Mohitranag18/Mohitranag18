@@ -38,7 +38,7 @@ Let's **connect and collaborate** on projects!
 
 **Others:**  Linux, Data Structures and Algorithms, Operating Systems, OOP, Computer Networks, Database Management Systems (DBMS)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" height="260" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" />
 
 ---
 # 📊 Stats:
