@@ -1,42 +1,20 @@
-# 👋 Hi there, I'm Mohit Rana!
+# Hi, I'm Mohit Rana!
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
-I am currently pursuing my **BSc. in IT** from **Graphic Era Hill University**, and I have a deep passion for **Software Development** and **exploring new technologies.**
+I’m a Full-Stack Developer, currently pursuing my B.Sc. in Information Technology at Graphic Era Hill University.
 
-- I’m always on the lookout for new tools, frameworks, and innovations that can enhance my development skills.
-- Currently, I am focused on mastering **Web Development** and building exciting projects.
-- I contributed to **GirlScript Summer of Code 2024 (Extended Edition)** and participated in **Hacktoberfest 2024**, making meaningful contributions to open-source projects.
-- Feel free to reach out to me at **[mohitr8998@gmail.com](mailto:mohitr8998@gmail.com)**
+I have hands-on experience building modern, scalable applications using MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, and Django REST Framework — with strong expertise in crafting seamless user experiences and robust backend systems.
 
-Let's **connect and collaborate** on projects!
+I enjoy exploring new technologies and currently expanding my skills in Web3 and AI/ML to build smarter, future-ready applications.
 
----
+I specialize in:
 
-## 🌐 Connect with Me
+-- Full-stack development with React, Next.js, Django, Node.js, and Tailwind CSS
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/bbq9KU8v)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohit.rana18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitrana18)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/mohitrana178635)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%234BCEB5.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mohitr8998)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23F9C24E.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/mohitrana18)
+-- Backend architecture, API design, and real-time systems with Redis, WebSockets, and JWT Auth
 
-
----
-
-
-# 💻 Tech Stack:
-
-**Languages:**  Java, Python, C/C++, SQL, JavaScript, TypeScript, HTML/CSS  
-
-**Frameworks:**  Django, Django REST Framework, React, React Native, Express.js  
-
-**Libraries:**  Redux Toolkit, Tailwind CSS, Celery, Redis, WebSocket  
-
-**Developer Tools:**  Node.js, Git & GitHub, Android Studio, Postman API, VS Code, IntelliJ, Eclipse  
-
-**Others:**  Linux, Data Structures and Algorithms, Operating Systems, OOP, Computer Networks, Database Management Systems (DBMS)  
+-- Building AI-driven and scalable platforms like PPT.fy, 100XGROW, and Graphia
 
 ---
 # 📊 Stats:
