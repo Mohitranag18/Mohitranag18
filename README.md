@@ -1,23 +1,12 @@
 # Hi, I'm Mohit Rana!
 
-<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
-
 Software Engineer building web applications and AI-powered solutions.
 
 Currently working on full-stack platforms and data-driven applications. Recent experience at GobbleCube, FOSSEE IIT Bombay, and ZeroCode - contributed to performance dashboards, no-code platforms, and structural design tools.
 
 Open to collaborating on interesting problems.
 
-
----
-# 📊 Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/mohitrana18?&theme=dark&" height="250" width="400" />
-</div>
-
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" />
 
 ## 🔰 Badges
 <details>
