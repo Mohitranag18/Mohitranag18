@@ -8,7 +8,6 @@ Open to collaborating on interesting problems.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitranag18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="320" />
 
-## 🔰 Badges
 <details>
   <summary>Show Badges</summary>
   <p align='center'>
